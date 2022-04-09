@@ -1,0 +1,71 @@
+E:\learn\Tst _Copy\DAL_QUANLI\obj\Debug\DAL_QUANLI.csprojAssemblyReference.cache
+E:\learn\Tst _Copy\DAL_QUANLI\obj\Debug\DAL_QUANLI.csproj.CoreCompileInputs.cache
+E:\learn\Tst _Copy\DAL_QUANLI\bin\Debug\DAL_QUANLI.dll
+E:\learn\Tst _Copy\DAL_QUANLI\bin\Debug\DAL_QUANLI.pdb
+E:\learn\Tst _Copy\DAL_QUANLI\bin\Debug\DTO_QUANLI.dll
+E:\learn\Tst _Copy\DAL_QUANLI\bin\Debug\DTO_QUANLI.pdb
+E:\learn\Tst _Copy\DAL_QUANLI\obj\Debug\DAL_QUANLI.csproj.CopyComplete
+E:\learn\Tst _Copy\DAL_QUANLI\obj\Debug\DAL_QUANLI.dll
+E:\learn\Tst _Copy\DAL_QUANLI\obj\Debug\DAL_QUANLI.pdb
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\DAL_QUANLI\bin\Debug\DAL_QUANLI.dll
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\DAL_QUANLI\bin\Debug\DAL_QUANLI.pdb
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\DAL_QUANLI\bin\Debug\DTO_QUANLI.dll
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\DAL_QUANLI\bin\Debug\DTO_QUANLI.pdb
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\DAL_QUANLI\obj\Debug\DAL_QUANLI.csprojAssemblyReference.cache
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\DAL_QUANLI\obj\Debug\DAL_QUANLI.csproj.CopyComplete
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\DAL_QUANLI\obj\Debug\DAL_QUANLI.dll
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\DAL_QUANLI\obj\Debug\DAL_QUANLI.pdb
+C:\Users\Admin\Desktop\Tst _Copy\DAL_QUANLI\bin\Debug\DAL_QUANLI.dll
+C:\Users\Admin\Desktop\Tst _Copy\DAL_QUANLI\bin\Debug\DAL_QUANLI.pdb
+C:\Users\Admin\Desktop\Tst _Copy\DAL_QUANLI\bin\Debug\DTO_QUANLI.dll
+C:\Users\Admin\Desktop\Tst _Copy\DAL_QUANLI\bin\Debug\DTO_QUANLI.pdb
+C:\Users\Admin\Desktop\Tst _Copy\DAL_QUANLI\obj\Debug\DAL_QUANLI.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Tst _Copy\DAL_QUANLI\obj\Debug\DAL_QUANLI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Tst _Copy\DAL_QUANLI\obj\Debug\DAL_QUANLI.csproj.CopyComplete
+C:\Users\Admin\Desktop\Tst _Copy\DAL_QUANLI\obj\Debug\DAL_QUANLI.dll
+C:\Users\Admin\Desktop\Tst _Copy\DAL_QUANLI\obj\Debug\DAL_QUANLI.pdb
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\DAL_QUANLI\bin\Debug\DAL_QUANLI.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\DAL_QUANLI\bin\Debug\DAL_QUANLI.pdb
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\DAL_QUANLI\bin\Debug\DTO_QUANLI.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\DAL_QUANLI\bin\Debug\DTO_QUANLI.pdb
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\DAL_QUANLI\obj\Debug\DAL_QUANLI.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\DAL_QUANLI\obj\Debug\DAL_QUANLI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\DAL_QUANLI\obj\Debug\DAL_QUANLI.csproj.CopyComplete
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\DAL_QUANLI\obj\Debug\DAL_QUANLI.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\DAL_QUANLI\obj\Debug\DAL_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\DAL_QUANLI\bin\Debug\DAL_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\DAL_QUANLI\bin\Debug\DAL_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\DAL_QUANLI\bin\Debug\DTO_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\DAL_QUANLI\bin\Debug\DTO_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\DAL_QUANLI\obj\Debug\DAL_QUANLI.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\DAL_QUANLI\obj\Debug\DAL_QUANLI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\DAL_QUANLI\obj\Debug\DAL_QUANLI.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\DAL_QUANLI\obj\Debug\DAL_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\DAL_QUANLI\obj\Debug\DAL_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\DAL_QUANLI\bin\Debug\DAL_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\DAL_QUANLI\bin\Debug\DAL_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\DAL_QUANLI\bin\Debug\DTO_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\DAL_QUANLI\bin\Debug\DTO_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\DAL_QUANLI\obj\Debug\DAL_QUANLI.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\DAL_QUANLI\obj\Debug\DAL_QUANLI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\DAL_QUANLI\obj\Debug\DAL_QUANLI.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\DAL_QUANLI\obj\Debug\DAL_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\DAL_QUANLI\obj\Debug\DAL_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\DAL_QUANLI\bin\Debug\DAL_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\DAL_QUANLI\bin\Debug\DAL_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\DAL_QUANLI\bin\Debug\DTO_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\DAL_QUANLI\bin\Debug\DTO_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\DAL_QUANLI\obj\Debug\DAL_QUANLI.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\DAL_QUANLI\obj\Debug\DAL_QUANLI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\DAL_QUANLI\obj\Debug\DAL_QUANLI.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\DAL_QUANLI\obj\Debug\DAL_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\DAL_QUANLI\obj\Debug\DAL_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\DAL_QUANLI\bin\Debug\DAL_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\DAL_QUANLI\bin\Debug\DAL_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\DAL_QUANLI\bin\Debug\DTO_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\DAL_QUANLI\bin\Debug\DTO_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\DAL_QUANLI\obj\Debug\DAL_QUANLI.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\DAL_QUANLI\obj\Debug\DAL_QUANLI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\DAL_QUANLI\obj\Debug\DAL_QUANLI.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\DAL_QUANLI\obj\Debug\DAL_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\DAL_QUANLI\obj\Debug\DAL_QUANLI.pdb

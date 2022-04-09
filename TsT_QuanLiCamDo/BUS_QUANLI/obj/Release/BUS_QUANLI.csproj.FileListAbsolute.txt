@@ -1,0 +1,44 @@
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\BUS_QUANLI\bin\Release\BUS_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\BUS_QUANLI\bin\Release\BUS_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\BUS_QUANLI\bin\Release\DAL_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\BUS_QUANLI\bin\Release\DTO_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\BUS_QUANLI\bin\Release\DAL_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\BUS_QUANLI\bin\Release\DTO_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\BUS_QUANLI\obj\Release\BUS_QUANLI.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\BUS_QUANLI\obj\Release\BUS_QUANLI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\BUS_QUANLI\obj\Release\BUS_QUANLI.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\BUS_QUANLI\obj\Release\BUS_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\BUS_QUANLI\obj\Release\BUS_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\BUS_QUANLI\bin\Release\BUS_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\BUS_QUANLI\bin\Release\BUS_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\BUS_QUANLI\bin\Release\DAL_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\BUS_QUANLI\bin\Release\DTO_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\BUS_QUANLI\bin\Release\DAL_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\BUS_QUANLI\bin\Release\DTO_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\BUS_QUANLI\obj\Release\BUS_QUANLI.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\BUS_QUANLI\obj\Release\BUS_QUANLI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\BUS_QUANLI\obj\Release\BUS_QUANLI.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\BUS_QUANLI\obj\Release\BUS_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\BUS_QUANLI\obj\Release\BUS_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\BUS_QUANLI\bin\Release\BUS_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\BUS_QUANLI\bin\Release\BUS_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\BUS_QUANLI\bin\Release\DAL_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\BUS_QUANLI\bin\Release\DTO_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\BUS_QUANLI\bin\Release\DAL_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\BUS_QUANLI\bin\Release\DTO_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\BUS_QUANLI\obj\Release\BUS_QUANLI.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\BUS_QUANLI\obj\Release\BUS_QUANLI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\BUS_QUANLI\obj\Release\BUS_QUANLI.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\BUS_QUANLI\obj\Release\BUS_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\BUS_QUANLI\obj\Release\BUS_QUANLI.pdb
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\BUS_QUANLI\bin\Release\BUS_QUANLI.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\BUS_QUANLI\bin\Release\BUS_QUANLI.pdb
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\BUS_QUANLI\bin\Release\DAL_QUANLI.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\BUS_QUANLI\bin\Release\DTO_QUANLI.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\BUS_QUANLI\bin\Release\DAL_QUANLI.pdb
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\BUS_QUANLI\bin\Release\DTO_QUANLI.pdb
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\BUS_QUANLI\obj\Release\BUS_QUANLI.csproj.AssemblyReference.cache
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\BUS_QUANLI\obj\Release\BUS_QUANLI.csproj.CoreCompileInputs.cache
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\BUS_QUANLI\obj\Release\BUS_QUANLI.csproj.CopyComplete
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\BUS_QUANLI\obj\Release\BUS_QUANLI.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\BUS_QUANLI\obj\Release\BUS_QUANLI.pdb

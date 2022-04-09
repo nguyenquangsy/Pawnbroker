@@ -1,0 +1,105 @@
+﻿--go
+--use master 
+--if exists (select name from sys.databases where name = 'QLCD')
+drop database QLCD
+
+
+go
+create database QLCD
+
+on (name = 'QLCD_DATA', filename='E:\SQL\QLCD.MDF')
+log on (name = 'QLCD_LOG', filename='E:\SQL\QLCD.LDF')
+
+go 
+
+use QLCD
+
+GO
+CREATE TABLE LOAIMATHANG
+(
+	MALOAI int Identity PRIMARY KEY ,
+	TENLOAI NVARCHAR(50),
+
+)
+GO
+CREATE TABLE MATHANG
+(
+	MAMATHANG int Identity PRIMARY KEY,
+	TENMATHANG NVARCHAR(50),
+	MALOAI int,
+	TT_MH BIT,
+	foreign key (MALOAI) references LOAIMATHANG(MALOAI) on update cascade 
+
+)
+GO
+CREATE TABLE KHACHHANG
+(
+	MAKHACHHANG int Identity PRIMARY KEY,
+	TENKHACHHANG NVARCHAR(50),
+	SDT VARCHAR(10) CHECK (DATALENGTH([SDT]) = 10) ,
+	DIACHI NVARCHAR(100),	
+	CMND VARCHAR(12) UNIQUE check (DATALENGTH([CMND]) = 12),
+	TT_KH bit,
+)
+
+
+GO
+CREATE TABLE TAIKHOAN
+(
+	TEN_TAI_KHOAN VARCHAR(20) PRIMARY KEY,
+	MAT_KHAU VARCHAR(20),
+	QUEN_MAT_KHAU VARCHAR(20) default '74156',
+	--foreign key (TEN_TAI_KHOANG) references CHITIETTAIKHOANG(TEN_TAI_KHOANG) on update cascade 
+	HO_VA_TEN_USER NVARCHAR(30),
+	VAI_TRO NVARCHAR (30),
+)
+
+GO
+
+
+CREATE TABLE PHIEUCAMDO
+(
+	MAPHIEU int Identity PRIMARY KEY,
+	NGAYLAP DATETIME,
+	NGAYHENTRA DATETIME ,
+	TIENTRA FLOAT,
+	TRANGTHAI bit  ,
+	MAKHACHHANG int,
+	TEN_TAI_KHOAN VARCHAR(20),
+	TT_PCD bit,
+	foreign key (MAKHACHHANG) references KHACHHANG(MAKHACHHANG) on update cascade ,
+	foreign key (TEN_TAI_KHOAN) references TAIKHOAN(TEN_TAI_KHOAN) on update cascade ,
+
+)
+
+
+GO
+CREATE TABLE CTPHIEUCAMDO
+(
+	MAMATHANG int,
+	MAPHIEU int,
+	SOLUONG INT,
+	TIENCAM money,
+	TT_CTPCD bit,
+	PRIMARY KEY (MAMATHANG,MAPHIEU),
+	foreign key (MAMATHANG) references MATHANG(MAMATHANG) on update cascade ,
+	foreign key (MAPHIEU) references PHIEUCAMDO(MAPHIEU) on update cascade 
+
+)
+
+GO
+
+CREATE TABLE PHIEUTHANHTOAN
+(
+	MAPHIEUTHANHTOAN int Identity PRIMARY KEY,
+	NGAYLAPPHIEUTHANHTOAN DATETIME,
+	MAPHIEU int,
+	TIENLAI FLOAT,
+	TONGTIEN MONEY,
+	TT_PTT bit ,
+	foreign key (MAPHIEU) references PHIEUCAMDO(MAPHIEU) on update cascade 
+)
+
+
+GO
+SET DATEFORMAT DMY

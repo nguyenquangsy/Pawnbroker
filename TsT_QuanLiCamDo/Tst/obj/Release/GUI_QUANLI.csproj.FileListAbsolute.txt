@@ -1,0 +1,386 @@
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\Tst.exe.config
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\Tst.exe
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\Tst.pdb
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\BUS_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\DTO_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\DAL_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\EnvDTE.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\stdole.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.MSXML.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\BUS_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\DTO_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\DAL_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Release\GUI_QUANLI.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Doanhthu.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Doanhthu_KH.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Doanhthu_MH.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Phieuhen.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Release\Tst.PhieuThanhToan.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Quanli_nhanvien.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Release\Tst.QuenMatKhau.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Release\Tst.tìm_kiếm_khách_hàng.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Release\Tst.tìm_kiếm_mặt_hàng.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Release\Tst.chi_tiết_phiếu_cầm.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Form1.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Phiếu.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Thay_đổi_mật_khảu.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Release\Tst.trang_chủ.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Đăng_ký.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Release\GUI_QUANLI.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Release\RdlCompile.cache
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Release\RdlCompile.compiled
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Release\GUI_QUANLI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Release\GUI_QUANLI.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Release\Tst.exe
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Release\Tst.pdb
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\Tst.exe.config
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\Tst.exe
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\Tst.pdb
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\BUS_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\DTO_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\DAL_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\EnvDTE.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\stdole.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.MSXML.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\BUS_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\DTO_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\DAL_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\obj\Release\GUI_QUANLI.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Doanhthu.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Doanhthu_KH.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Doanhthu_MH.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Phieuhen.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\obj\Release\Tst.PhieuThanhToan.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Quanli_nhanvien.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\obj\Release\Tst.QuenMatKhau.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\obj\Release\Tst.tìm_kiếm_khách_hàng.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\obj\Release\Tst.tìm_kiếm_mặt_hàng.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\obj\Release\Tst.chi_tiết_phiếu_cầm.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Form1.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Phiếu.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Thay_đổi_mật_khảu.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\obj\Release\Tst.trang_chủ.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Đăng_ký.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\obj\Release\GUI_QUANLI.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\obj\Release\RdlCompile.cache
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\obj\Release\RdlCompile.compiled
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\obj\Release\GUI_QUANLI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\obj\Release\GUI_QUANLI.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\obj\Release\Tst.exe
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\obj\Release\Tst.pdb
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\Phieuhen.resx
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\PhieuThanhToan.resx
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\Phieuhen.cs
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\Phieuhen.Designer.cs
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\PhieuThanhToan.cs
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\TsT_QuanLiCamDo\Tst\bin\Release\PhieuThanhToan.Designer.cs
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Phieuhen.resx
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\PhieuThanhToan.resx
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Phieuhen.cs
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Phieuhen.Designer.cs
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\PhieuThanhToan.cs
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\PhieuThanhToan.Designer.cs
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Tst.exe.config
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Tst.exe
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Tst.pdb
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\BUS_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\DTO_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\DAL_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\EnvDTE.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\stdole.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.MSXML.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\BUS_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\DTO_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\DAL_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\GUI_QUANLI.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Doanhthu.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Doanhthu_KH.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Doanhthu_MH.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Phieuhen.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.PhieuThanhToan.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Quanli_nhanvien.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.QuenMatKhau.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.tìm_kiếm_khách_hàng.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.tìm_kiếm_mặt_hàng.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.chi_tiết_phiếu_cầm.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Form1.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Phiếu.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Thay_đổi_mật_khảu.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.trang_chủ.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Đăng_ký.resources
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\GUI_QUANLI.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\RdlCompile.cache
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\RdlCompile.compiled
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\GUI_QUANLI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\GUI_QUANLI.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.exe
+C:\Users\Admin\OneDrive\Desktop\CNPM_NHOM4_TsT\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.pdb
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\Phieuhen.resx
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\PhieuThanhToan.resx
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\Phieuhen.cs
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\Phieuhen.Designer.cs
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\PhieuThanhToan.cs
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Release\PhieuThanhToan.Designer.cs
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\SqlServerTypes\x64\msvcr120.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\SqlServerTypes\x86\msvcr120.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Phieuhen.resx
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\PhieuThanhToan.resx
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Phieuhen.cs
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Phieuhen.Designer.cs
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\PhieuThanhToan.cs
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\PhieuThanhToan.Designer.cs
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Tst.exe.config
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Tst.exe
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Tst.pdb
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\BUS_QUANLI.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\DTO_QUANLI.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.ReportViewer.Common.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.ReportViewer.Design.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.ReportViewer.WinForms.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.SqlServer.Types.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\DAL_QUANLI.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\EnvDTE.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\stdole.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\Microsoft.MSXML.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\BUS_QUANLI.pdb
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\DTO_QUANLI.pdb
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\DAL_QUANLI.pdb
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\GUI_QUANLI.csproj.AssemblyReference.cache
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Doanhthu.resources
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Doanhthu_KH.resources
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Doanhthu_MH.resources
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Phieuhen.resources
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.PhieuThanhToan.resources
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Quanli_nhanvien.resources
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.QuenMatKhau.resources
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.tìm_kiếm_khách_hàng.resources
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.tìm_kiếm_mặt_hàng.resources
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.chi_tiết_phiếu_cầm.resources
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Form1.resources
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Properties.Resources.resources
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Phiếu.resources
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Thay_đổi_mật_khảu.resources
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.trang_chủ.resources
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.Đăng_ký.resources
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\GUI_QUANLI.csproj.GenerateResource.cache
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\GUI_QUANLI.csproj.CoreCompileInputs.cache
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\GUI_QUANLI.csproj.CopyComplete
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.exe
+M:\Project in class\Môn CNPM & Winform\Nộp Đồ Án\TsT_QuanLiCamDo\Tst\obj\Release\Tst.pdb

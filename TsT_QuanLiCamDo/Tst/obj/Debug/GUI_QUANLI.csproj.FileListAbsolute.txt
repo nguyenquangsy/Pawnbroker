@@ -1,0 +1,354 @@
+E:\learn\Tst _Copy\Tst\obj\Debug\GUI_QUANLI.csprojAssemblyReference.cache
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.Doanhthu.resources
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.tìm_kiếm_khách_hàng.resources
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.tìm_kiếm_mặt_hàng.resources
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.chi_tiết_phiếu_cầm.resources
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.Form1.resources
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.Properties.Resources.resources
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.Phiếu.resources
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.Thay_đổi_mật_khảu.resources
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.trang_chủ.resources
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.Đăng_ký.resources
+E:\learn\Tst _Copy\Tst\obj\Debug\GUI_QUANLI.csproj.GenerateResource.cache
+E:\learn\Tst _Copy\Tst\obj\Debug\GUI_QUANLI.csproj.CoreCompileInputs.cache
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.exe
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.pdb
+E:\learn\Tst _Copy\Tst\bin\Debug\Tst.exe.config
+E:\learn\Tst _Copy\Tst\bin\Debug\Tst.exe
+E:\learn\Tst _Copy\Tst\bin\Debug\Tst.pdb
+E:\learn\Tst _Copy\Tst\bin\Debug\BUS_QUANLI.dll
+E:\learn\Tst _Copy\Tst\bin\Debug\DTO_QUANLI.dll
+E:\learn\Tst _Copy\Tst\bin\Debug\DAL_QUANLI.dll
+E:\learn\Tst _Copy\Tst\bin\Debug\BUS_QUANLI.pdb
+E:\learn\Tst _Copy\Tst\bin\Debug\DTO_QUANLI.pdb
+E:\learn\Tst _Copy\Tst\bin\Debug\DAL_QUANLI.pdb
+E:\learn\Tst _Copy\Tst\obj\Debug\GUI_QUANLI.csproj.CopyComplete
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.them.resources
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.QuenMatKhau.resources
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\Tst\bin\Debug\Tst.exe.config
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\Tst\bin\Debug\Tst.exe
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\Tst\bin\Debug\Tst.pdb
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\Tst\bin\Debug\BUS_QUANLI.dll
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\Tst\bin\Debug\DTO_QUANLI.dll
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\Tst\bin\Debug\DAL_QUANLI.dll
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\Tst\bin\Debug\BUS_QUANLI.pdb
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\Tst\bin\Debug\DTO_QUANLI.pdb
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\Tst\bin\Debug\DAL_QUANLI.pdb
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\Tst\obj\Debug\GUI_QUANLI.csprojAssemblyReference.cache
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\Tst\obj\Debug\Tst.Doanhthu.resources
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\Tst\obj\Debug\Tst.QuenMatKhau.resources
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\Tst\obj\Debug\Tst.tìm_kiếm_khách_hàng.resources
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\Tst\obj\Debug\Tst.tìm_kiếm_mặt_hàng.resources
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\Tst\obj\Debug\Tst.chi_tiết_phiếu_cầm.resources
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\Tst\obj\Debug\Tst.Form1.resources
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\Tst\obj\Debug\Tst.Properties.Resources.resources
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\Tst\obj\Debug\Tst.Phiếu.resources
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\Tst\obj\Debug\Tst.Thay_đổi_mật_khảu.resources
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\Tst\obj\Debug\Tst.trang_chủ.resources
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\Tst\obj\Debug\Tst.Đăng_ký.resources
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\Tst\obj\Debug\GUI_QUANLI.csproj.GenerateResource.cache
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\Tst\obj\Debug\GUI_QUANLI.csproj.CopyComplete
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\Tst\obj\Debug\Tst.exe
+C:\Users\trivi\OneDrive\Desktop\Tst _Copy\Tst\obj\Debug\Tst.pdb
+C:\Users\Admin\Desktop\Tst _Copy\Tst\bin\Debug\Tst.exe.config
+C:\Users\Admin\Desktop\Tst _Copy\Tst\bin\Debug\Tst.exe
+C:\Users\Admin\Desktop\Tst _Copy\Tst\bin\Debug\Tst.pdb
+C:\Users\Admin\Desktop\Tst _Copy\Tst\bin\Debug\BUS_QUANLI.dll
+C:\Users\Admin\Desktop\Tst _Copy\Tst\bin\Debug\DTO_QUANLI.dll
+C:\Users\Admin\Desktop\Tst _Copy\Tst\bin\Debug\DAL_QUANLI.dll
+C:\Users\Admin\Desktop\Tst _Copy\Tst\bin\Debug\BUS_QUANLI.pdb
+C:\Users\Admin\Desktop\Tst _Copy\Tst\bin\Debug\DTO_QUANLI.pdb
+C:\Users\Admin\Desktop\Tst _Copy\Tst\bin\Debug\DAL_QUANLI.pdb
+C:\Users\Admin\Desktop\Tst _Copy\Tst\obj\Debug\GUI_QUANLI.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Tst _Copy\Tst\obj\Debug\Tst.Doanhthu.resources
+C:\Users\Admin\Desktop\Tst _Copy\Tst\obj\Debug\Tst.QuenMatKhau.resources
+C:\Users\Admin\Desktop\Tst _Copy\Tst\obj\Debug\Tst.tìm_kiếm_khách_hàng.resources
+C:\Users\Admin\Desktop\Tst _Copy\Tst\obj\Debug\Tst.tìm_kiếm_mặt_hàng.resources
+C:\Users\Admin\Desktop\Tst _Copy\Tst\obj\Debug\Tst.chi_tiết_phiếu_cầm.resources
+C:\Users\Admin\Desktop\Tst _Copy\Tst\obj\Debug\Tst.Form1.resources
+C:\Users\Admin\Desktop\Tst _Copy\Tst\obj\Debug\Tst.Properties.Resources.resources
+C:\Users\Admin\Desktop\Tst _Copy\Tst\obj\Debug\Tst.Phiếu.resources
+C:\Users\Admin\Desktop\Tst _Copy\Tst\obj\Debug\Tst.Thay_đổi_mật_khảu.resources
+C:\Users\Admin\Desktop\Tst _Copy\Tst\obj\Debug\Tst.trang_chủ.resources
+C:\Users\Admin\Desktop\Tst _Copy\Tst\obj\Debug\Tst.Đăng_ký.resources
+C:\Users\Admin\Desktop\Tst _Copy\Tst\obj\Debug\GUI_QUANLI.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Tst _Copy\Tst\obj\Debug\GUI_QUANLI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Tst _Copy\Tst\obj\Debug\GUI_QUANLI.csproj.CopyComplete
+C:\Users\Admin\Desktop\Tst _Copy\Tst\obj\Debug\Tst.exe
+C:\Users\Admin\Desktop\Tst _Copy\Tst\obj\Debug\Tst.pdb
+C:\Users\Admin\Desktop\Tst _Copy\Tst\obj\Debug\Tst.Doanhthu_KH.resources
+C:\Users\Admin\Desktop\Tst _Copy\Tst\obj\Debug\Tst.Doanhthu_MH.resources
+C:\Users\Admin\Desktop\Tst _Copy\Tst\obj\Debug\Tst.Quanli_nhanvien.resources
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Tst.exe.config
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Tst.exe
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Tst.pdb
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\BUS_QUANLI.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\DTO_QUANLI.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\DAL_QUANLI.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\BUS_QUANLI.pdb
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\DTO_QUANLI.pdb
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\DAL_QUANLI.pdb
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\GUI_QUANLI.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.Doanhthu.resources
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.Doanhthu_KH.resources
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.Doanhthu_MH.resources
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.Quanli_nhanvien.resources
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.QuenMatKhau.resources
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.tìm_kiếm_khách_hàng.resources
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.tìm_kiếm_mặt_hàng.resources
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.chi_tiết_phiếu_cầm.resources
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.Form1.resources
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.Properties.Resources.resources
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.Phiếu.resources
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.Thay_đổi_mật_khảu.resources
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.trang_chủ.resources
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.Đăng_ký.resources
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\GUI_QUANLI.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\GUI_QUANLI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\GUI_QUANLI.csproj.CopyComplete
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.exe
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.pdb
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.PhieuThanhToan.resources
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.Phieuhen.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Tst.exe.config
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Tst.exe
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Tst.pdb
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\BUS_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\DTO_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\DAL_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\EnvDTE.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\stdole.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\BUS_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\DTO_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\DAL_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\GUI_QUANLI.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.Doanhthu.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.Doanhthu_KH.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.Doanhthu_MH.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.Phieuhen.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.PhieuThanhToan.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.Quanli_nhanvien.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.QuenMatKhau.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.tìm_kiếm_khách_hàng.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.tìm_kiếm_mặt_hàng.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.chi_tiết_phiếu_cầm.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.Form1.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.Phiếu.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.Thay_đổi_mật_khảu.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.trang_chủ.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.Đăng_ký.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\GUI_QUANLI.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\RdlCompile.cache
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\GUI_QUANLI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\GUI_QUANLI.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.exe
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo - Copy\Tst\obj\Debug\Tst.pdb
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\Tst.exe.config
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\Tst.exe
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\Tst.pdb
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\BUS_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\DTO_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\DAL_QUANLI.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\EnvDTE.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\stdole.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\BUS_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\DTO_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\DAL_QUANLI.pdb
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Debug\GUI_QUANLI.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Debug\Tst.Doanhthu.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Debug\Tst.Doanhthu_KH.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Debug\Tst.Doanhthu_MH.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Debug\Tst.Phieuhen.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Debug\Tst.PhieuThanhToan.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Debug\Tst.Quanli_nhanvien.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Debug\Tst.QuenMatKhau.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Debug\Tst.tìm_kiếm_khách_hàng.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Debug\Tst.tìm_kiếm_mặt_hàng.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Debug\Tst.chi_tiết_phiếu_cầm.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Debug\Tst.Form1.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Debug\Tst.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Debug\Tst.Phiếu.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Debug\Tst.Thay_đổi_mật_khảu.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Debug\Tst.trang_chủ.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Debug\Tst.Đăng_ký.resources
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Debug\GUI_QUANLI.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Debug\RdlCompile.cache
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Debug\GUI_QUANLI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Debug\GUI_QUANLI.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Debug\Tst.exe
+C:\Users\Admin\OneDrive\Desktop\TsT_QuanLiCamDo\Tst\obj\Debug\Tst.pdb

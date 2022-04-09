@@ -1,0 +1,36 @@
+E:\learn\Tst\Tst\bin\Debug\Tst.exe.config
+E:\learn\Tst\Tst\bin\Debug\Tst.exe
+E:\learn\Tst\Tst\bin\Debug\Tst.pdb
+E:\learn\Tst\Tst\obj\Debug\Tst.csprojAssemblyReference.cache
+E:\learn\Tst\Tst\obj\Debug\Tst.Form1.resources
+E:\learn\Tst\Tst\obj\Debug\Tst.Properties.Resources.resources
+E:\learn\Tst\Tst\obj\Debug\Tst.csproj.GenerateResource.cache
+E:\learn\Tst\Tst\obj\Debug\Tst.csproj.CoreCompileInputs.cache
+E:\learn\Tst\Tst\obj\Debug\Tst.exe
+E:\learn\Tst\Tst\obj\Debug\Tst.pdb
+E:\learn\Tst\Tst\obj\Debug\Tst.Đăng_ký.resources
+E:\learn\Tst\Tst\obj\Debug\Tst.trang_chủ.resources
+E:\learn\Tst\Tst\obj\Debug\Tst.Thay_đổi_mật_khảu.resources
+E:\learn\Tst\Tst\obj\Debug\Tst.chi_tiết_phiếu_cầm.resources
+E:\learn\Tst\Tst\obj\Debug\Tst.Phiếu.resources
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.csprojAssemblyReference.cache
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.chi_tiết_phiếu_cầm.resources
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.Form1.resources
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.Properties.Resources.resources
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.Phiếu.resources
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.Thay_đổi_mật_khảu.resources
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.trang_chủ.resources
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.Đăng_ký.resources
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.csproj.GenerateResource.cache
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.csproj.CoreCompileInputs.cache
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.exe
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.pdb
+E:\learn\Tst _Copy\Tst\bin\Debug\Tst.exe.config
+E:\learn\Tst _Copy\Tst\bin\Debug\Tst.exe
+E:\learn\Tst _Copy\Tst\bin\Debug\Tst.pdb
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.tìm_kiếm_mặt_hàng.resources
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.tìm_kiếm_khách_hàng.resources
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.Doanhthu.resources
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.Phiếu_cầm_đồ.resources
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.phieuhen.resources
+E:\learn\Tst _Copy\Tst\obj\Debug\Tst.phieuthanhtoan.resources

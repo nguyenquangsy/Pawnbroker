@@ -1,0 +1,2200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <AutoRefresh>0</AutoRefresh>
+  <DataSources>
+    <DataSource Name="DTO_QUANLI">
+      <ConnectionProperties>
+        <DataProvider>System.Data.DataSet</DataProvider>
+        <ConnectString>/* Local Connection */</ConnectString>
+      </ConnectionProperties>
+      <rd:DataSourceID>ee70c133-7dda-4b0e-831b-10738da7f876</rd:DataSourceID>
+    </DataSource>
+  </DataSources>
+  <DataSets>
+    <DataSet Name="DataSet1">
+      <Query>
+        <DataSourceName>DTO_QUANLI</DataSourceName>
+        <CommandText>/* Local Query */</CommandText>
+      </Query>
+      <Fields>
+        <Field Name="Soluong">
+          <DataField>Soluong</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="Tenmathang">
+          <DataField>Tenmathang</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Tiencam">
+          <DataField>Tiencam</DataField>
+          <rd:TypeName>System.Single</rd:TypeName>
+        </Field>
+      </Fields>
+      <rd:DataSetInfo>
+        <rd:DataSetName>DTO_QUANLI</rd:DataSetName>
+        <rd:TableName>report_ptt</rd:TableName>
+        <rd:ObjectDataSourceType>DTO_QUANLI.report_ptt, DTO_QUANLI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</rd:ObjectDataSourceType>
+      </rd:DataSetInfo>
+    </DataSet>
+  </DataSets>
+  <ReportSections>
+    <ReportSection>
+      <Body>
+        <ReportItems>
+          <Textbox Name="Textbox1">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>Độc lập  - Tự do – Hạnh phúc</Value>
+                    <Style>
+                      <FontStyle>Italic</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Center</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>…………..oOo…………..</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Center</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox1</rd:DefaultName>
+            <Left>1.83208in</Left>
+            <Height>0.67708in</Height>
+            <Width>3.65625in</Width>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+          <Textbox Name="Textbox2">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>HỢP ĐỒNG CẦM ĐỒ</Value>
+                    <Style>
+                      <FontSize>28pt</FontSize>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Center</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox1</rd:DefaultName>
+            <Top>0.81771in</Top>
+            <Left>1.39583in</Left>
+            <Height>0.45833in</Height>
+            <Width>4.4375in</Width>
+            <ZIndex>1</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+          <Textbox Name="Textbox4">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>Hôm nay, ngày </Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>=Parameters!ngay.Value</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value> tháng </Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>=Parameters!thang.Value</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value> năm </Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>=Parameters!nam.Value</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>, tại tiệm: </Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>TsT</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value> , chúng tôi gồm:</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value />
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>Bên cầm cố: (Sau đây gọi là bên A)</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>Ông (Bà): </Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>=Parameters!tenkhachhang.Value</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>CMND: </Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>=Parameters!cmnd.Value</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>Điện thoại liên lạc: </Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>=Parameters!sdt.Value</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>Địa chỉ: </Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>=Parameters!diachi.Value</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value xml:space="preserve"> </Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value />
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>Bên tiệm cầm đồ: (Sau đây gọi là bên B)</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>Ông (Bà): Nhóm 4</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>CMND: 123456789</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>Điện thoại liên lạc : 0123456789</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>Địa chỉ cửa hàng: Quận 9, tp. Hồ Chí Minh</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>Hai bên đồng ý thực hiện việc cầm cố tài sản với những thỏa thuận sau đây:</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox4</rd:DefaultName>
+            <Top>1.54042in</Top>
+            <Left>0.61333in</Left>
+            <Height>2.89931in</Height>
+            <Width>6.25in</Width>
+            <ZIndex>2</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+          <Textbox Name="Textbox5">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>ĐIỀU 3</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>: </Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>NGHĨA VỤ VÀ QUYỀN CỦA BÊN A</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>1. Nghĩa vụ của bên A</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>–  Giao tài sản cầm cố và các giấy tờ về tài sản cầm cố nêu trên cho bên B;</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>–  Báo cho bên B về quyền của người thứ ba đối với tài sản cầm cố, nếu có;</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>–  Thực hiện việc đăng ký cầm cố tại cơ quan có thẩm quyền theo quy định của pháp luật;</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>–  Thanh toán cho bên B chi phí cần thiết để bảo quản tài sản cầm cố;</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>–  Thực hiện việc xóa đăng ký cầm cố khi đã hoàn thành nghĩa vụ trả nợ tại cơ quan có thẩm quyền theo quy định của pháp luật.</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>2. Quyền của bên A</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>–  Yêu cầu bên B đình chỉ việc sử dụng tài sản cầm cố, nếu do sử dụng mà tài sản cầm cố có nguy có bị mất giá trị hoặc giảm sút giá trị;</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>–  Nhận lại tài sản cầm cố và các giấy tờ về tài sản cầm cố sau khi hoàn thành nghĩa vụ trả nợ;</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>–  Yêu cầu bên B bồi thường thiệt hại xảy ra đối với tài sản cầm cố hoặc các giấy tờ về tài sản cầm cố.</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>ĐIỀU 4</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>: </Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>NGHĨA VỤ VÀ QUYỀN CỦA BÊN B</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>1. Nghĩa vụ của bên B</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>–  Giữ, bảo quản tài sản cầm cố và các giấy tờ về tài sản cầm cố nêu trên, trong trường hợp làm mất, hư hỏng, thì phải bồi thường thiệt hại cho bên A;</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>–  Không được bán, trao đổi, tặng cho, cho thuê, cho mượn hoặc dùng tài sản cầm cố để bảo đảm cho nghĩa vụ khác;</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>–  Giao lại tài sản cầm cố và các giấy tờ về tài sản cầm cố nêu trên cho bên A khi bên A hoàn thành nghĩa vụ trả nợ.</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>2. Quyền của bên B</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>–  Yêu cầu bên A thực hiện đăng ký việc cầm cố theo quy định của pháp luật.</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>–  Được thanh toán chi phí hợp lý bảo quản tài sản cầm cố khi trả lại tài sản cho bên A;</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>–  Yêu cầu xử lý tài sản cầm cố để thu hồi nợ theo quy định của pháp luật.</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>ĐIỀU 5</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>: </Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>XỬ LÝ TÀI SẢN CẦM CỐ</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>1. Trong trường hợp hết thời hạn thực hiện nghĩa vụ trả nợ mà bên A không trả hoặc trả không hết nợ, thì bên B có quyền yêu cầu xử lý tài sản cầm cố nêu trên theo quy định của pháp luật để thu hồi nợ với phương thức:</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>- Bên B nhận chính tài sản cầm cố để thay thế cho việc thực hiện nghĩa vụ được bảo đảm.</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>2. Việc xử lý tài sản cầm cố nêu trên được thực hiện để thanh toán cho bên B theo thứ tự nợ gốc, lãi vay, lãi quá hạn, các khoản phí khác (nếu có), sau khi đã trừ đi các chi phí bảo quản, chi phí bán đấu giá và các chi phí khác có liên quan đến việc xử lý tài sản cầm cố.</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>ĐIỀU 6</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>: </Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>PHƯƠNG THỨC GIẢI QUYẾT TRANH CHẤP HỢP ĐỒNG</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>Trong quá trình thực hiện hợp đồng, nếu phát sinh tranh chấp, các bên cùng nhau thương lượng giải quyết trên nguyên tắc tôn trọng quyền lợi của nhau; trong trường hợp không giải quyết được, thì một trong hai bên có quyền khởi kiện để yêu cầu tòa án có thẩm quyền giải quyết theo quy định của pháp luật.</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>ĐIỀU 7</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>: </Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>CAM ĐOAN CỦA CÁC BÊN</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>Bên A và bên B chịu trách nhiệm trước pháp luật về những lời cam đoan sau đây:</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>1. Bên A cam đoan:</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>a. Những thông tin về nhân thân và về tài sản cầm cố đã ghi trong hợp đồng này là đúng sự thật;</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>b. Tài sản cầm cố nêu trên không có tranh chấp, không bị kê biên để đảm bảo thi hành án;</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>c. Việc giao kết hợp đồng này hoàn toàn tự nguyện, không bị lừa dối hoặc ép buộc;</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>d. Thực hiện đúng và đầy đủ tất cả các thỏa thuận đã ghi trong Hợp đồng này.</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>2. Bên B cam đoan:</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>a. Những thông tin về nhân thân đã ghi trong Hợp đồng này là đúng sự thật;</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>b. Đã xem xét kỹ, biết rõ về tài sản cầm cố nêu trên và các giấy tờ về tài sản cầm cố, đồng ý cho bên A vay số tiền nêu tại Điều 1 của Hợp đồng này;</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>c. Việc giao kết hợp đồng này hoàn toàn tự nguyện, không bị lừa dối hoặc ép buộc;</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>d. Thực hiện đúng và đầy đủ tất cả các thỏa thuận đã ghi trong Hợp đồng này.</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>ĐIỀU 8</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>: </Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>ĐIỀU KHOẢN CUỐI CÙNG</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>1. Hai bên công nhận đã hiểu rõ quyền, nghĩa vụ và lợi ích hợp pháp của mình, ý nghĩa và hậu quả pháp lý của việc giao kết hợp đồng này.</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>2. Từng bên đã đọc Hợp đồng, đã hiểu và đồng ý tất cả các điều khoản ghi trong Hợp đồng và ký vào Hợp đồng này trước sự có mặt của công chứng viên.</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>3. Hợp đồng này được lập thành 02 bản chính, mỗi bên giữ 01 bản.</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value />
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>                   BÊN A                                                                                 BÊN B</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>            (ký và ghi rõ họ tên)                                                      (ký và ghi rõ họ tên)</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox5</rd:DefaultName>
+            <Top>6.43278in</Top>
+            <Left>0.61334in</Left>
+            <Height>14.62625in</Height>
+            <Width>6.25in</Width>
+            <ZIndex>3</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+          <Textbox Name="Textbox15">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>ĐIỀU 1:</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value xml:space="preserve"> </Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>NGHĨA VỤ ĐƯỢC BẢO ĐẢM</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>1. Bên A đồng ý cầm cố tài sản thuộc quyền sở hữu của mình để bảo đảm thực hiện nghĩa vụ trả nợ cho bên B (bao gồm: nợ gốc, lãi vay, lãi quá hạn và phí).</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>2. Số tiền mà bên B cho bên A vay là: </Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>=Parameters!sotien.Value</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value> đ.</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>ĐIỀU 2</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>: </Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Normal</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>TÀI SẢN CẦM CỐ</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>Chúng tôi thỏa thuận các tài sản cầm cố gồm :</Value>
+                    <Style>
+                      <FontStyle>Normal</FontStyle>
+                      <FontFamily>Times New Roman</FontFamily>
+                      <FontSize>13pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                      <TextDecoration>None</TextDecoration>
+                      <Color>#000000</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Left</TextAlign>
+                  <LineHeight>17pt</LineHeight>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox15</rd:DefaultName>
+            <Top>4.50917in</Top>
+            <Left>0.63417in</Left>
+            <Height>1.23958in</Height>
+            <Width>6.22917in</Width>
+            <ZIndex>4</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+          <Tablix Name="Tablix3">
+            <TablixBody>
+              <TablixColumns>
+                <TablixColumn>
+                  <Width>0.5974in</Width>
+                </TablixColumn>
+                <TablixColumn>
+                  <Width>2.04205in</Width>
+                </TablixColumn>
+                <TablixColumn>
+                  <Width>1.86017in</Width>
+                </TablixColumn>
+                <TablixColumn>
+                  <Width>1.72955in</Width>
+                </TablixColumn>
+              </TablixColumns>
+              <TablixRows>
+                <TablixRow>
+                  <Height>0.26042in</Height>
+                  <TablixCells>
+                    <TablixCell>
+                      <CellContents>
+                        <Textbox Name="Textbox8">
+                          <CanGrow>true</CanGrow>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>STT</Value>
+                                  <Style />
+                                </TextRun>
+                              </TextRuns>
+                              <Style>
+                                <TextAlign>Center</TextAlign>
+                              </Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <rd:DefaultName>Textbox8</rd:DefaultName>
+                          <Style>
+                            <Border>
+                              <Color>LightGrey</Color>
+                              <Style>Solid</Style>
+                            </Border>
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>2pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          </Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
+                        <Textbox Name="Textbox22">
+                          <CanGrow>true</CanGrow>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>Tên mặt hàng</Value>
+                                  <Style />
+                                </TextRun>
+                              </TextRuns>
+                              <Style>
+                                <TextAlign>Center</TextAlign>
+                              </Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <rd:DefaultName>Textbox15</rd:DefaultName>
+                          <Style>
+                            <Border>
+                              <Color>LightGrey</Color>
+                              <Style>Solid</Style>
+                            </Border>
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>2pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          </Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
+                        <Textbox Name="Textbox23">
+                          <CanGrow>true</CanGrow>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>Số lượng</Value>
+                                  <Style />
+                                </TextRun>
+                              </TextRuns>
+                              <Style>
+                                <TextAlign>Center</TextAlign>
+                              </Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <rd:DefaultName>Textbox17</rd:DefaultName>
+                          <Style>
+                            <Border>
+                              <Color>LightGrey</Color>
+                              <Style>Solid</Style>
+                            </Border>
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>2pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          </Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
+                        <Textbox Name="Textbox24">
+                          <CanGrow>true</CanGrow>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>Tiền cầm</Value>
+                                  <Style />
+                                </TextRun>
+                              </TextRuns>
+                              <Style>
+                                <TextAlign>Center</TextAlign>
+                              </Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <rd:DefaultName>Textbox19</rd:DefaultName>
+                          <Style>
+                            <Border>
+                              <Color>LightGrey</Color>
+                              <Style>Solid</Style>
+                            </Border>
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>2pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          </Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                  </TablixCells>
+                </TablixRow>
+                <TablixRow>
+                  <Height>0.3125in</Height>
+                  <TablixCells>
+                    <TablixCell>
+                      <CellContents>
+                        <Textbox Name="Textbox9">
+                          <CanGrow>true</CanGrow>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>= ROWNUMBER(NOTHING)</Value>
+                                  <Style />
+                                </TextRun>
+                              </TextRuns>
+                              <Style>
+                                <TextAlign>Center</TextAlign>
+                              </Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <rd:DefaultName>Textbox9</rd:DefaultName>
+                          <Style>
+                            <Border>
+                              <Color>LightGrey</Color>
+                              <Style>Solid</Style>
+                            </Border>
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>2pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          </Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
+                        <Textbox Name="Tenmathang">
+                          <CanGrow>true</CanGrow>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>=Fields!Tenmathang.Value</Value>
+                                  <Style />
+                                </TextRun>
+                              </TextRuns>
+                              <Style>
+                                <TextAlign>Center</TextAlign>
+                              </Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <rd:DefaultName>Tenmathang</rd:DefaultName>
+                          <Style>
+                            <Border>
+                              <Color>LightGrey</Color>
+                              <Style>Solid</Style>
+                            </Border>
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>2pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          </Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
+                        <Textbox Name="Soluong">
+                          <CanGrow>true</CanGrow>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>=Fields!Soluong.Value</Value>
+                                  <Style />
+                                </TextRun>
+                              </TextRuns>
+                              <Style>
+                                <TextAlign>Center</TextAlign>
+                              </Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <rd:DefaultName>Soluong</rd:DefaultName>
+                          <Style>
+                            <Border>
+                              <Color>LightGrey</Color>
+                              <Style>Solid</Style>
+                            </Border>
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>2pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          </Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
+                        <Textbox Name="Tiencam">
+                          <CanGrow>true</CanGrow>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>=Fields!Tiencam.Value</Value>
+                                  <Style />
+                                </TextRun>
+                              </TextRuns>
+                              <Style>
+                                <TextAlign>Center</TextAlign>
+                              </Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <rd:DefaultName>Tiencam</rd:DefaultName>
+                          <Style>
+                            <Border>
+                              <Color>LightGrey</Color>
+                              <Style>Solid</Style>
+                            </Border>
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>2pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          </Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                  </TablixCells>
+                </TablixRow>
+              </TablixRows>
+            </TablixBody>
+            <TablixColumnHierarchy>
+              <TablixMembers>
+                <TablixMember />
+                <TablixMember />
+                <TablixMember />
+                <TablixMember />
+              </TablixMembers>
+            </TablixColumnHierarchy>
+            <TablixRowHierarchy>
+              <TablixMembers>
+                <TablixMember>
+                  <KeepWithGroup>After</KeepWithGroup>
+                </TablixMember>
+                <TablixMember>
+                  <Group Name="Details2" />
+                </TablixMember>
+              </TablixMembers>
+            </TablixRowHierarchy>
+            <DataSetName>DataSet1</DataSetName>
+            <Top>5.81819in</Top>
+            <Left>0.63417in</Left>
+            <Height>0.57292in</Height>
+            <Width>6.22917in</Width>
+            <ZIndex>5</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+            </Style>
+          </Tablix>
+          <Image Name="Image3">
+            <Source>Embedded</Source>
+            <Value>logo_cnpm</Value>
+            <Sizing>FitProportional</Sizing>
+            <Top>0.18625in</Top>
+            <Left>0.15625in</Left>
+            <Height>1.08979in</Height>
+            <Width>0.95157in</Width>
+            <ZIndex>6</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+            </Style>
+          </Image>
+        </ReportItems>
+        <Height>21.27083in</Height>
+        <Style />
+      </Body>
+      <Width>7.49875in</Width>
+      <Page>
+        <LeftMargin>1in</LeftMargin>
+        <RightMargin>1in</RightMargin>
+        <TopMargin>1in</TopMargin>
+        <BottomMargin>1in</BottomMargin>
+        <Style />
+      </Page>
+    </ReportSection>
+  </ReportSections>
+  <ReportParameters>
+    <ReportParameter Name="ngay">
+      <DataType>String</DataType>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="nam">
+      <DataType>String</DataType>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="thang">
+      <DataType>String</DataType>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="tenkhachhang">
+      <DataType>String</DataType>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="cmnd">
+      <DataType>String</DataType>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="sdt">
+      <DataType>String</DataType>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="diachi">
+      <DataType>String</DataType>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="sotien">
+      <DataType>String</DataType>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+  </ReportParameters>
+  <ReportParametersLayout>
+    <GridLayoutDefinition>
+      <NumberOfColumns>4</NumberOfColumns>
+      <NumberOfRows>3</NumberOfRows>
+      <CellDefinitions>
+        <CellDefinition>
+          <ColumnIndex>0</ColumnIndex>
+          <RowIndex>0</RowIndex>
+          <ParameterName>ngay</ParameterName>
+        </CellDefinition>
+        <CellDefinition>
+          <ColumnIndex>2</ColumnIndex>
+          <RowIndex>0</RowIndex>
+          <ParameterName>nam</ParameterName>
+        </CellDefinition>
+        <CellDefinition>
+          <ColumnIndex>3</ColumnIndex>
+          <RowIndex>0</RowIndex>
+          <ParameterName>thang</ParameterName>
+        </CellDefinition>
+        <CellDefinition>
+          <ColumnIndex>0</ColumnIndex>
+          <RowIndex>1</RowIndex>
+          <ParameterName>tenkhachhang</ParameterName>
+        </CellDefinition>
+        <CellDefinition>
+          <ColumnIndex>1</ColumnIndex>
+          <RowIndex>1</RowIndex>
+          <ParameterName>cmnd</ParameterName>
+        </CellDefinition>
+        <CellDefinition>
+          <ColumnIndex>2</ColumnIndex>
+          <RowIndex>1</RowIndex>
+          <ParameterName>sdt</ParameterName>
+        </CellDefinition>
+        <CellDefinition>
+          <ColumnIndex>3</ColumnIndex>
+          <RowIndex>1</RowIndex>
+          <ParameterName>diachi</ParameterName>
+        </CellDefinition>
+        <CellDefinition>
+          <ColumnIndex>0</ColumnIndex>
+          <RowIndex>2</RowIndex>
+          <ParameterName>sotien</ParameterName>
+        </CellDefinition>
+      </CellDefinitions>
+    </GridLayoutDefinition>
+  </ReportParametersLayout>
+  <EmbeddedImages>
+    <EmbeddedImage Name="logo_cnpm">
+      <MIMEType>image/jpeg</MIMEType>
+      <ImageData>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</ImageData>
+    </EmbeddedImage>
+  </EmbeddedImages>
+  <rd:ReportUnitType>Inch</rd:ReportUnitType>
+  <rd:ReportID>3b460f87-c3fa-4a4e-a183-5dfb2a08ff54</rd:ReportID>
+</Report>
